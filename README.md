@@ -1,5 +1,14 @@
 # auto_mouse
 Implement Full Functions of AutoMouse Automatic Operation Tool
+mplement Full Functions of AutoMouse Automatic Operation Tool
+Permission Management: Automatically detect and obtain administrator privileges
+Recording Function: Support recording of left mouse button clicks and all keyboard keys, with operation time intervals logged
+Playback Function: Precisely replicate operations in the recorded sequence, with configurable playback times
+Shortcut Key Support: Ctrl+Shift+F7 to start/pause recording; Ctrl+Shift+F9 to stop recording/playback
+Stop Mechanism: Support immediate exit during playback at any time
+Logging System: Dual assurance with terminal output and file logging
+Stability: Dual keyboard monitoring mechanism ensures reliable capture of keyboard events
+Compatibility: Support recording and playback of various special keys and regular keys
 # AutoMouse 自动操作工具
 
 AutoMouse是一个功能强大的自动化操作工具，能够录制和回放鼠标和键盘操作，适用于需要批量执行重复性任务的场景。
